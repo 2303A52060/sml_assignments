@@ -9,3 +9,4 @@ https://github.com/2303A52060/sml_assignments/blob/main/sml_assignment_8.ipynb
 https://github.com/2303A52060/sml_assignments/blob/main/SML_A_9.ipynb
 https://github.com/2303A52060/sml_assignments/blob/main/SML_A_10.ipynb
 https://github.com/2303A52060/sml_assignments/blob/main/SML_A_11.ipynb
+https://github.com/2303A52060/sml_assignments/blob/main/Assignment_12.ipynb
